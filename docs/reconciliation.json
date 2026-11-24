@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "source_sha256": "8edd7e719b7ae8deb14507b6e46b7cf78f0eda095d5570fbb8596793a7cb51f5",
+  "counts": {
+    "cell_slots": 8183,
+    "populated_cells": 4852,
+    "formulas": 2085,
+    "structured_fields": 5903,
+    "structured_rows": 303,
+    "calculations": 71,
+    "blank_normalizations": 8
+  },
+  "mismatches": [],
+  "scope": "OOXML cells/formulas/caches, semantic fields, selected independent calculations and relationships; not full formula execution or external source verification"
+}
